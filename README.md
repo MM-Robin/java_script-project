@@ -1,5 +1,6 @@
 # java_script-project
 
+The main aim of the program is to build snake game using javascript. The reqiurements are given below_
 1 Requirements
 1. Create a gray playing field in the x - y -plane of size 10 × 10 with the origin of world space located at the center of the playing field.
 2. Divide this playing field into units cells of size 1 × 1 and visualize them with a grid. Hint: use THREE.GridHelper
